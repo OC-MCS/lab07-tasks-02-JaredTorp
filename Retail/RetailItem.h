@@ -17,7 +17,7 @@ public:
 	int getUnitsOnHand();
 	double getPrice();
 	float getStockValue();
-
+	
 
 
 
